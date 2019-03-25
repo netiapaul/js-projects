@@ -1,4 +1,8 @@
 # rock-paper-scissors
 rock paper scissors game
 
-# change the user input to view the answers
+#whale talk game 
+ mutliplying the E and the U
+ 
+ #sleep debt counter
+ determines how long you should sleep
